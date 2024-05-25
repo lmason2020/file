@@ -1,2 +1,2 @@
 # file
-my shares
+all are my shares
